@@ -1,0 +1,28 @@
+Atividade: Sistema de Gerenciamento de Filmes
+Crie um sistema que permita gerenciar um catálogo de filmes com as seguintes funcionalidades:
+
+Requisitos:
+Crie a classe Filme com os seguintes atributos:
+
+-titulo (String)
+-diretor (String)
+-anoLancamento (int)
+-genero (String)
+
+Crie a classe CatalogoFilmes com um ArrayList<Filme> para armazenar os filmes e os seguintes métodos:
+
+-adicionarFilme(String titulo, String diretor, int ano, String genero)
+-removerFilme(String titulo)
+-listarFilmes()
+-buscarFilmePorTitulo(String titulo)
+-atualizarFilme(String tituloAntigo, String novoTitulo, String novoDiretor, int novoAno, String novoGenero)
+
+
+Crie uma classe Main com o método main() para testar tudo. Exemplo:
+
+Adicione 3 filmes
+Liste todos
+Busque um pelo título
+Atualize um deles
+Remova um filme
+Liste novamente

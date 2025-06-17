@@ -1,0 +1,25 @@
+Desafio: Gerenciador de Lista de Compras
+Contexto:
+Você foi contratado por um pequeno mercadinho de bairro que precisa de um sistema simples em Java para gerenciar a lista de compras dos clientes. O sistema deve permitir adicionar produtos, listar todos os produtos, atualizar um produto existente e remover um produto da lista.
+
+Como ainda estão começando, o sistema usará um array de tamanho fixo de 10 posições para armazenar os nomes dos produtos.
+
+Requisitos do sistema (o que os alunos devem implementar):
+
+Criar (Create): Adicionar um novo produto na primeira posição vazia do array.
+
+Ler (Read): Listar todos os produtos cadastrados na lista.
+
+Atualizar (Update): Substituir um produto existente por um novo nome.
+
+Deletar (Delete): Remover um produto da lista (deve deixar a posição como null ou "---").
+
+📌 Regras:
+
+O sistema deve exibir um menu com as opções do CRUD.
+
+O usuário pode repetir as operações até escolher "Sair".
+
+Se tentar adicionar mais de 10 produtos, deve exibir uma mensagem: "Lista cheia!".
+
+Ao tentar atualizar ou remover um produto que não existe, deve avisar: "Produto não encontrado!".

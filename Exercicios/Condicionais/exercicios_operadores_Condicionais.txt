@@ -1,0 +1,55 @@
+💡 Desafio 1 – Verificador de Triângulo
+Descrição:
+Peça ao aluno que crie um programa que receba 3 lados e verifique se é possível formar um triângulo.
+Se sim, o programa deve indicar o tipo de triângulo:
+
+Equilátero (todos iguais)
+
+Isósceles (dois iguais)
+
+Escaleno (todos diferentes)
+
+📌 Dica: usar operadores lógicos (&&) e condicionais (if/else if/else)
+
+-------------------------------------------------------------------------------------------------------
+
+💡 Desafio 2 – Calculadora de IMC
+Descrição:
+Solicite ao aluno que crie um programa que receba peso (kg) e altura (m) e calcule o IMC:
+IMC = peso / (altura * altura)
+Com base no resultado, exiba uma classificação:
+
+Abaixo do peso
+
+Peso normal
+
+Sobrepeso
+
+Obesidade
+
+📌 Usar operadores aritméticos e comparação com if/else if/else
+
+-------------------------------------------------------------------------------------------------------
+
+💡 Desafio 3 – Número Mágico
+Descrição:
+Peça que o programa sorteie um número entre 1 e 10 (usando Random) e o usuário tente adivinhar.
+Se acertar, mostre "Parabéns!", senão diga se o número digitado é maior ou menor que o sorteado.
+
+📌 Usar operadores de comparação (<, >) e if
+
+-------------------------------------------------------------------------------------------------------
+
+💡 Desafio 4 – Classificação de Eleitor
+Descrição:
+O programa deve pedir a idade do usuário e informar:
+
+"Voto obrigatório" se tiver entre 18 e 70 anos
+
+"Voto facultativo" se tiver 16-17 ou acima de 70
+
+"Não vota" se tiver menos de 16
+
+📌 Usar if com condições compostas usando || e &&
+
+-------------------------------------------------------------------------------------------------------

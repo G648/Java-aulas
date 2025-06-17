@@ -1,0 +1,21 @@
+Desafio 1: Soma de Números Positivos
+
+Solicitar ao usuário números até que ele digite um número negativo. Ao final, exibir a soma de todos os positivos.
+
+------------------------------------------------------------------
+
+Desafio 2: Verificação de Senha
+
+Usuário deve digitar a senha correta (ex: "1234"). Ele tem no máximo 3 tentativas
+
+------------------------------------------------------------------
+
+Desafio 3: Números Pares e Ímpares
+
+Pedir um número N e exibir todos os pares até N.
+
+------------------------------------------------------------------
+
+Desafio 4: Número Primo
+
+Verifique se um número digitado é primo.

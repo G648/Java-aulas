@@ -1,0 +1,22 @@
+Desafio 1 – Sistema de Banco:
+
+Crie um sistema bancário com:
+
+- Classe abstrata Conta com saldo e número.
+- Subclasses ContaCorrente e ContaPoupanca com regras diferentes de saque e rendimento.
+- Encapsule o saldo (com validação para impedir saldo negativo).
+- Use polimorfismo para calcularRendimento()
+
+Desafio 2 – Sistema de Escola:
+
+- Classe abstrata Pessoa → Subclasses: Aluno, Professor, Diretor.
+- Encapsule atributos (nome, idade, etc.).
+- Cada um tem um método apresentar() que se comporta de forma diferente.
+- Crie um sistema que simula o cadastro de pessoas e exibe quem é quem (polimorfismo em ação).
+
+Desafio 3 – Cadastro de Produtos:
+
+- Classe Produto com nome, preco e categoria (encapsulados).
+- Crie subclasses Livro, Eletronico, Alimento.
+- Cada um tem um método calcularDesconto() diferente (polimorfismo).
+- Faça um ArrayList de produtos, cadastre alguns e imprima os descontos.
